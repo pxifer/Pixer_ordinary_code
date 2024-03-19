@@ -1,0 +1,4 @@
+﻿  imitation.c
+D:\code\模拟函数\imitation.c(102): warning C4715: “my_strstr”: 不是所有的控件路径都返回值
+D:\code\模拟函数\imitation.c(62): warning C4716: “my_strlen”: 必须返回一个值
+  模拟函数.vcxproj -> D:\code\模拟函数\x64\Debug\模拟函数.exe

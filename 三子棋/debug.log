@@ -1,0 +1,30 @@
+[1205/202449.608:INFO:skin_prom_main.cpp(112)] skinprom start
+[1205/202449.706:ERROR:skin_prom_updater.cpp(186)] sendrequest via wall error
+[1205/202449.706:ERROR:skin_prom_updater.cpp(158)] send req
+[1205/202449.706:INFO:skin_prom_main.cpp(137)] skinprom end
+[1205/202517.593:INFO:skin_prom_main.cpp(112)] skinprom start
+[1205/202517.683:ERROR:skin_prom_updater.cpp(186)] sendrequest via wall error
+[1205/202517.683:ERROR:skin_prom_updater.cpp(158)] send req
+[1205/202517.683:INFO:skin_prom_main.cpp(137)] skinprom end
+[1205/202525.707:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[1205/202525.707:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[1205/202525.708:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
+[1205/202526.811:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[1205/202526.811:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[1205/202526.811:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
+[1205/202526.879:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[1205/202527.068:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[1205/202527.068:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[1205/202527.069:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
+[1205/202527.099:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+[1205/202527.102:ERROR:browser_gpu_channel_host_factory.cc(138)] Failed to launch GPU process.
+[1205/202527.178:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[1205/202527.178:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[1205/202527.178:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
+[1205/202527.393:ERROR:browser_gpu_channel_host_factory.cc(138)] Failed to launch GPU process.
+[1205/202527.631:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[1205/202527.631:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[1205/202527.631:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
+[1205/202527.641:ERROR:main_delegate.cc(951)] Could not load cef_100_percent.pak
+[1205/202527.641:ERROR:main_delegate.cc(960)] Could not load cef_200_percent.pak
+[1205/202527.642:ERROR:main_delegate.cc(970)] Could not load cef_extensions.pak
